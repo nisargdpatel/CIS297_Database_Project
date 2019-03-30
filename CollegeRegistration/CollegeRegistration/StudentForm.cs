@@ -8,7 +8,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+/*Sources used
+ * https://stackoverflow.com/questions/30578790/open-another-form-from-main-form-and-then-close-the-main-form-on-c-sharp-project 
+ https://stackoverflow.com/questions/19726884/convert-iqueryable-to-bindinglist 
+https://www.youtube.com/watch?v=hg3H_pAzoPI&t=1160s */
 namespace CollegeRegistration
 {
     public partial class StudentForm : Form
