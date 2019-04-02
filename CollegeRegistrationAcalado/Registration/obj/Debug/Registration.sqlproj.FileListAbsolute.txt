@@ -1,0 +1,6 @@
+C:\Users\AvianC\source\repos\CollegeRegistration\Registration\bin\Debug\Registration.dacpac
+C:\Users\AvianC\source\repos\CollegeRegistration\Registration\bin\Debug\Registration.dll
+C:\Users\AvianC\source\repos\CollegeRegistration\Registration\bin\Debug\Registration.pdb
+C:\Users\AvianC\source\repos\CollegeRegistration\Registration\obj\Debug\Registration.sqlprojAssemblyReference.cache
+C:\Users\AvianC\source\repos\CollegeRegistration\Registration\obj\Debug\Registration.dll
+C:\Users\AvianC\source\repos\CollegeRegistration\Registration\obj\Debug\Registration.pdb

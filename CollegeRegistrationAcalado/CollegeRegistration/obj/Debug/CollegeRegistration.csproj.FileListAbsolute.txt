@@ -1,0 +1,16 @@
+C:\Users\AvianC\source\repos\CollegeRegistration\CollegeRegistration\bin\Debug\CollegeRegistration.exe.config
+C:\Users\AvianC\source\repos\CollegeRegistration\CollegeRegistration\bin\Debug\CollegeRegistration.exe
+C:\Users\AvianC\source\repos\CollegeRegistration\CollegeRegistration\bin\Debug\CollegeRegistration.pdb
+C:\Users\AvianC\source\repos\CollegeRegistration\CollegeRegistration\bin\Debug\EntityFramework.dll
+C:\Users\AvianC\source\repos\CollegeRegistration\CollegeRegistration\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AvianC\source\repos\CollegeRegistration\CollegeRegistration\bin\Debug\EntityFramework.xml
+C:\Users\AvianC\source\repos\CollegeRegistration\CollegeRegistration\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AvianC\source\repos\CollegeRegistration\CollegeRegistration\obj\Debug\CollegeRegistration.csprojAssemblyReference.cache
+C:\Users\AvianC\source\repos\CollegeRegistration\CollegeRegistration\obj\Debug\CollegeRegistration.Properties.Resources.resources
+C:\Users\AvianC\source\repos\CollegeRegistration\CollegeRegistration\obj\Debug\CollegeRegistration.csproj.GenerateResource.cache
+C:\Users\AvianC\source\repos\CollegeRegistration\CollegeRegistration\obj\Debug\CollegeRegistration.csproj.CoreCompileInputs.cache
+C:\Users\AvianC\source\repos\CollegeRegistration\CollegeRegistration\obj\Debug\CollegeRegistration.csproj.CopyComplete
+C:\Users\AvianC\source\repos\CollegeRegistration\CollegeRegistration\obj\Debug\CollegeRegistration.exe
+C:\Users\AvianC\source\repos\CollegeRegistration\CollegeRegistration\obj\Debug\CollegeRegistration.pdb
+C:\Users\AvianC\source\repos\CollegeRegistration\CollegeRegistration\obj\Debug\CollegeRegistration.MajorForm.resources
+C:\Users\AvianC\source\repos\CollegeRegistration\CollegeRegistration\obj\Debug\CollegeRegistration.EnrollmentForm.resources
