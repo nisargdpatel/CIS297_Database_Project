@@ -24,5 +24,13 @@ namespace CollegeRegistration
         public string CourseName_CourseNumber_FacultName_SectionID_StudentID_Grade => $"Enrollment ID {Id} Course: {Section.Course.Name} {Section.Course.Number}  Faculty Name: {Section.Faculty.Name}  Section ID: {Section.Id}  Student ID: {Student.Id} Grade: {Grade} ";
         public string Semester_StudentID_Grade_CourseName_CourseNumber_SectionID => $" {Section.Semester} Student ID: {Student.Id} {Grade}  Course: {Section.Course.Name} {Section.Course.Number} Section ID: {Section.Id} ";
     }
+    public partial class Section
+    {
+        public string SectionDisplay => $"{Id}\tCourseID: {CourseID}\tFacultyID: {FacultyID}\tSemester: {Semester}\tWhen: {Day} {Time}";
+    }
+    public partial class Course
+    {
+        public string CourseDisplay => $"ID: {Id}\t\t{Department}\t{Number}\tCredits: {Credits}.0\t{Name}";
+    }
 
 }
